@@ -1,0 +1,16 @@
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/assets/images/admin.png
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/assets/images/avatar.png
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/assets/images/customer.png
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/assets/images/warning.png
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/packages/flutter_iconly/fonts/IconlyBroken.ttf
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/packages/flutter_iconly/fonts/IconlyLight.ttf
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/packages/flutter_iconly/fonts/iconly_bold.ttf
+C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

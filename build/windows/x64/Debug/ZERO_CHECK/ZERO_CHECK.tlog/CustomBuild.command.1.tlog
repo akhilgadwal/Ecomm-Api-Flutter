@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\ECOMM\2-FAKE_STORE_API_DESIGN_FLUTTER_COURSE\BUILD\WINDOWS\CMAKEFILES\28CF3683590AE27BEC2871D0958829E5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/windows -BC:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hp/Desktop/Ecomm/2-fake_store_api_design_flutter_course/build/windows/store_api_flutter_course.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
